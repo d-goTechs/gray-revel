@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gray-revel&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../go-ipfs_v0.4.2_windows-amd64" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../gray-beego" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../go-ipfs_v0.4.2_windows-amd64" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../gray-beego" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
